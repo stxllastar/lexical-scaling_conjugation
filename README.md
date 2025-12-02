@@ -23,6 +23,14 @@ This repository contains a modified implementation of the original Lexically-Sca
 
 * Training output file names now explicitly indicate the epoch, learning rate, and all three priors applied during generation, making it easier to track experimental settings.
 
+The generated data are stored in the `generate_data` folder.  
+The folder also contains the code used to generate each suffix-count condition, with matching names:
+
+- `6suffix.py` generates input data file with six suffix variants (`6suffix.tsv`)  
+- `8suffix.py` generates input data file with eight suffix variants (`8suffix.tsv`)  
+- … (and so on for other conditions)
+
+
 Trained results are organized in subfolders within the output directory.
 
 - For experiments with different prior settings on stems and suffixes, results are stored in the `differ_scales/` subfolder.
