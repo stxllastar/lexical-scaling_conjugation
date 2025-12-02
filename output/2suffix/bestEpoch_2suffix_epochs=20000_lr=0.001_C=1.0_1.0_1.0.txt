@@ -1,0 +1,99 @@
+Best epoch was 19999
+Loss at best epoch was 30.48201997875363
+Weights:
+*VcV	0.0
+Max	0.58779133404941
+Ident	0.2513181348758193
+Scales:
+s0
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s1
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s2
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s3
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s4
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s5
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s6
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s7
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s8
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s9
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s10
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s11
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s12
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s13
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s14
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s15
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s16
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s17
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s18
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s19
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s20
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p0
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p1
+	*VcV	0.0
+	Max	2.3566380592199896
+	Ident	2.6931127632064897

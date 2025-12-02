@@ -1,0 +1,115 @@
+Best epoch was 19999
+Loss at best epoch was 78.73373029977088
+Weights:
+*VcV	2.5571511866898096
+Max	3.8927240079760606
+Ident	3.4079488401383857
+Scales:
+s0
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s1
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s2
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s3
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s4
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s5
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s6
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s7
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s8
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s9
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s10
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s11
+	*VcV	1.0621178497604395
+	Max	0.0
+	Ident	0.0
+s12
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s13
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s14
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s15
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+s16
+	*VcV	1.3801677595965807
+	Max	0.0
+	Ident	0.5848876783191922
+s17
+	*VcV	1.3801677595965807
+	Max	0.0
+	Ident	0.5848876783191922
+s18
+	*VcV	1.3801677595965807
+	Max	0.0
+	Ident	0.5848876783191922
+s19
+	*VcV	1.3801677595965807
+	Max	0.0
+	Ident	0.5848876783191922
+s20
+	*VcV	1.3801677595965807
+	Max	0.0
+	Ident	0.5848876783191922
+p0
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p1
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p2
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p3
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p4
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
+p5
+	*VcV	0.0
+	Max	0.0
+	Ident	0.0
